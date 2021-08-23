@@ -158,7 +158,12 @@ export default () => {
     return (
         <PageArea>
             <Header setSearchQuery={setSearch}/>
-            <SectionName className="Font-Section">As músicas que estão em alta</SectionName>
+            {search.length === 0 &&
+                 <SectionName className="Font-Section">As músicas que estão em alta</SectionName>
+            }
+            {search.length > 0 && 
+                <SectionName className="Font-Section">Resultado da busca</SectionName>
+            }
             <MusicArea>
                 {musics.length > 0 && musics.map((i, k) => (
                     <MusicCard 

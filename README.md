@@ -29,7 +29,7 @@ __Após instalar as dependências, chegou a hora de escutar as músicas!__ __Mas
    npm start ou yarn start
 </pre>
 
-__Após o projeto ser iniciado, a página será exebida desta maneira:__
+__Após o projeto ser iniciado, a página será exibida desta maneira:__
 
 ![home](./src/public/images_to_readme/home.png?raw=true "Title")
 
