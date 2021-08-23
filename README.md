@@ -33,4 +33,6 @@ __Após o projeto ser iniciado, a página será exibida desta maneira:__
 
 ![home](./src/public/images_to_readme/home.png?raw=true "Title")
 
+__Agora aproveite e curta suas músicas favoritas!__
+
 
