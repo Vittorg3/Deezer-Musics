@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Deezer Musics
+
+## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Para iniciar o projeto
 
-In the project directory, you can run:
+Dê o seguinte comando e veja a mágica acontecer:
 
 ### `npm start`
 
