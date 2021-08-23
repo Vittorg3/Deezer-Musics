@@ -31,6 +31,6 @@ __Após instalar as dependências, chegou a hora de escutar as músicas!__ __Mas
 
 __Após o projeto ser iniciado, a página será exebida desta maneira:__
 
-![home](relative/path/to/img.jpg?raw=true "Title")
+![home](./src/public/images_to_readme/home.png?raw=true "Title")
 
 
